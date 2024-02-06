@@ -1,0 +1,18 @@
+<svg viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad1" x1="0%" y1="0%" x2="60%" y2="100%">
+      <stop offset="0%" style="stop-color:rgb(206, 194, 255);stop-opacity:1" />
+      <stop offset="100%" style="stop-color:rgb(122, 53, 242);stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="matrix(5.5555548667907715, 0, 0, 5.5555548667907715, -27.777778625488285, -27.77777862548828)">
+    <g fill="url(#grad1)">
+      <path d="M50,5 C14,5 5,14 5,50 C5,86 14,95 50,95 C86,95 95,86 95,50 C95,14 86,5 50,5 L50,5 Z" fill="url(#grad1)"/>
+    </g>
+  </g>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0, o);" cx="250" cy="139" rx="15" ry="15" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, 0)"/>
+  <ellipse style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0, o);" cx="250" cy="186" rx="15" ry="15" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, 0)"/>
+  <rect x="237.5" y="300" width="25" height="75" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0, 0); rx: 12.5;" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, 0)"/>
+  <rect x="212.5" y="325" width="75" height="25" style="fill: rgb(255, 255, 255); stroke: rgba(0, 0, 0, 0); rx: 12.5;" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, 0)"/>
+  <path d="M 320.717 250 C 346.204 229.376 362.5 197.841 362.5 162.5 C 362.5 100.368 312.132 50 250 50 L 150 50 L 150 262.5 L 200 237.5 L 200 100 L 250 100 C 284.518 100 312.5 127.982 312.5 162.5 C 312.5 197.018 284.518 225 250 225 L 250 275 C 284.518 275 312.5 302.982 312.5 337.5 C 312.5 372.018 284.518 400 250 400 L 200 400 L 200 262.5 L 150 287.5 L 150 450 L 250 450 C 312.132 450 362.5 399.632 362.5 337.5 C 362.5 302.159 346.204 270.624 320.717 250 Z" style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0, 0);" transform="matrix(1, 0, 0, 1, -7.105427357601002e-15, 0)"/>
+</svg>
